@@ -1,0 +1,5 @@
+paypal Account Details for pament integration:
+Client ID:  AUI5JTjJE6uAERX7id7ICQ3yFwMFRU6ssXijPWp3TR5PeVnGNW6xzlKIgfLgCCAMCDivO5HKcobPwE2a
+Secret: ECYBRWZjmnPu00Xy9lZbsCy3jHJKANKwNRL_8VQTHJmaKAvDs_6Ti0ERmfnWsofuVnH2w2pDmAiN4jh6
+
+

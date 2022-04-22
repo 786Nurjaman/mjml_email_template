@@ -1,0 +1,29 @@
+*************************code for checking temp mail or not***************************************
+let Temp_Mail;
+let domain = ["@gmail.com","@yahoo.com","@hotmail.com","@aol.com","@live.com","@rediffmail.com"];
+let data = prompt("Please enter your email");
+let str_pos = data.indexOf("@")
+let len = data.length 
+let sub_str = data.substring(str_pos,len)
+console.log(sub_str)
+ for(let i=0;i<=len;i++){
+ 	let temp = domain[i]
+  if(temp===sub_str){
+          Temp_Mail = true
+          break;
+    }else{
+    Temp_Mail = false
+    continue;
+    }
+}  
+console.log(`Temp Mail: ${Temp_Mail}`)
+
+
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+
+
+let domain = ["gmail.com","yahoo.com","hotmail.com","aol.com","live.com","rediffmail.com"]
+let text = "nurjamanshekh@gmail.com";
+const myArray = text.split("@")
+let text_domain = myArray[1]
+console.log(domain.includes(text_domain))
