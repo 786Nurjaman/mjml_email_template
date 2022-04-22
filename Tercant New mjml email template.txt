@@ -1,0 +1,15 @@
+1. OrgRegis->https://mjml.io/try-it-live/84R4z595Pfe
+2. Account Deletion Request->https://mjml.io/try-it-live/APMB_YQIipg
+3. Space Created->https://mjml.io/try-it-live/Lj9HTldTrqJ
+4. Account Deleted->https://mjml.io/try-it-live/O2CIDzn7bN0
+5. GroupRequest->https://mjml.io/try-it-live/g0eqMeTCbHk
+6. inviteProject->https://mjml.io/try-it-live/39komgdty2_
+7. OrgOnboard->https://mjml.io/try-it-live/UM5WA2KjB
+8. ResetPassword->https://mjml.io/try-it-live/1PuiGPrc5sz
+9. SpaceAssign->https://mjml.io/try-it-live/7ixFJblaX17
+10. SpaceRequest->https://mjml.io/try-it-live/FL01IZFY8
+11. updatePassword->https://mjml.io/try-it-live/Inicknpt8OC
+12. UserForgotPassword->https://mjml.io/try-it-live/9aikBTKe6tb
+13. UserInvite->https://mjml.io/try-it-live/oCk-KNRg8p1
+14. UserOnboard->https://mjml.io/try-it-live/3fgeagCtx2_
+15. welcomeUser->https://mjml.io/try-it-live/oOnqNjF_83A
